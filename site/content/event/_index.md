@@ -1,5 +1,5 @@
 ---
-title: GAIRAの活動
+title: GAIRAについて
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
@@ -10,15 +10,9 @@ description: >-
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
-      text: |-
-        「イベント１」
-        イベント１の説明。
-        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+      text: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
     - image: /img/illustrations-coffee-gear.svg
-      text: |-
-        「イベント2」
-        イベント2の説明。
-        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+      text: GAIRAの説明。あれこれ色々。
     - image: /img/illustrations-tutorials.svg
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
@@ -33,8 +27,8 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: イベント活動
-  description: イベント活動全体の説明
+  heading: GAIRAとは
+  description: GAIRAの説明
 main:
   heading: Great coffee with no compromises
   description: >
