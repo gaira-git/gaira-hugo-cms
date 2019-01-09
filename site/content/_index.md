@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "中部ゲーム産学協議会"
+subtitle: Game Academics and Industries Relationship Association
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
