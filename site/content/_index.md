@@ -11,21 +11,12 @@ blurb:
     profits are reinvested in their communities.
 intro:
   heading: GAIRAの活動
-  text: ここにGAIRAの活動全体についての簡単な説明を入れます。
+  text: ''
 products:
-  - image: img/illustrations-coffee.svg
-    text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  - image: /img/crefes2018.jpg
+    text: 中部最大級のゲーム業界合同企業展「中部クリエイティブフェスタ」
+  - image: /img/dokkan.png
+    text: ゲームクリエイターのためのカンファレンス「どっかんナゴヤ」
 values:
   heading: GAIRAについて
   text: >-
