@@ -7,8 +7,10 @@ intro:
   text: ''
 products:
   - image: /img/crefes2018.jpg
+    link: 'https://crefes2019.gaira.org/'
     text: 中部最大級のゲーム業界合同企業展「中部クリエイティブフェスタ」
   - image: /img/dokkan.png
+    link: 'https://dcn.connpass.com/'
     text: ゲームクリエイターのためのカンファレンス「どっかんナゴヤ」
 values:
   heading: GAIRAについて
