@@ -6,10 +6,16 @@
     <div class="flex-ns mhn2-ns mb3">
       {{ range .products }}
       <div class="ph2-ns w-50-ns">
-        <div class="h-w-60">
-          <div class="h-w-content"><img src="{{.image}}" alt="" class="w-100 h-100 of-cover center db br1"></div>
-        </div>
-        <p>{{.text}}</p>
+        {{ if .link}}
+        <a href="{{.link}}" class="link">
+        {{ end }}
+          <div class="h-w-60">
+            <div class="h-w-content"><img src="{{.image}}" alt="" class="w-100 h-100 of-cover center db br1"></div>
+          </div>
+          <p>{{.text}}</p>
+        {{ if .link }}
+        </a>
+        {{ end }}
       </div>
       {{ end }}
     </div>
