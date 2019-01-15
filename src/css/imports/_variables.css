@@ -13,12 +13,13 @@
 	--primary-a05: rgba(100, 90, 250, 0.5);
 
 	/* Typography */
-	--font-family: Nunito Sans, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
-	--line-height: 1.5;
+	--font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", YuGothic, "ヒラギノ角ゴ ProN W3", Hiragino Kaku Gothic ProN, Arial, "メイリオ", Meiryo, sans-serif;
+	/* --font-family: Nunito Sans, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif; */
+	--line-height: 1.4;
 
-	--font-size: 18px;
-	--font-size-m: 20px;
-	--font-size-l: 22px;
+	--font-size: 16px;
+	--font-size-m: 18px;
+	--font-size-l: 20px;
 
 	--body-font-weight: 400;
 	--bold-font-weight: 700;

@@ -28,6 +28,26 @@
 .h-auto {     height: auto; }
 .h-inherit {  height: inherit; }
 
+
+/* 横幅100%に対しての領域の高さ指定 */
+
+.h-w-50 {   position: relative; width: 100%;  }
+.h-w-50::before { content:""; display: block; padding-top: 50%; }
+.h-w-60 {   position: relative; width: 100%;  }
+.h-w-60::before { content:""; display: block; padding-top: 60%; }
+.h-w-75 {   position: relative; width: 100%;  }
+.h-w-75::before { content:""; display: block; padding-top: 75%; }
+.h-w-100 {   position: relative; width: 100%;  }
+.h-w-100::before { content:""; display: block; padding-top: 100%; }
+.h-w-content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+
 @media (--breakpoint-not-small) {
   .h1-ns {  height: var(--spacing-medium); }
   .h2-ns {  height: 2rem; }
