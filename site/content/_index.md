@@ -6,7 +6,7 @@ intro:
   heading: GAIRAの活動
   text: ''
 products:
-  - image: /img/crefes2018.jpg
+  - image: /img/gaira_gkt2019.jpg
     link: 'https://crefes2019.gaira.org/'
     text: 中部最大級のゲーム業界合同企業展「中部クリエイティブフェスタ」
   - image: /img/dokkan.png
